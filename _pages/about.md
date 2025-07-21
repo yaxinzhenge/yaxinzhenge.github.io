@@ -15,10 +15,12 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+# About Me
+My name is Yaxin Zheng, and I am a PhD student in Finance at Australian National University. My research interests include:
 
-About me
-
+- **Empirical Asset Pricing**, Factor Models, and Financial Econometrics  
+- **Credit Risk**, Corporate Bonds, and Financial Intermediation  
+- **Macro-Finance**, Monetary Policy Transmission, and Machine Learning Forecasting  
 
 # 🔥 News
 News 2025
