@@ -107,3 +107,18 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.item-title-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    h2 {
+        margin-bottom: 0;
+    }
+}
+
+.item-meta {
+    font-size: 1.2em;
+    white-space: nowrap;
+    margin-left: 2em;
+}
