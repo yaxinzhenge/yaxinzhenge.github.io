@@ -49,7 +49,7 @@ News 2025
 - Cleaned and verified historical data in R; created visualizations and spatial maps in ArcGIS Pro.  
 
 
-# 🎓 Scholarships & Awards
+# 🎓 Scholarships and Awards
 - **Student Leader Scholarship**, ANU _(2024 & 2025)_
 - **Summer Research Program Scholarship**, University of Adelaide _(2023)_
 
@@ -61,7 +61,7 @@ News 2025
 ## AI Adoption and Credit Allocation in Australian Lending Markets – ACUR 2024 (December 2024)
 - Presented findings linking AI penetration to loan issuance using panel fixed-effects models.
 
-# 📚 Teaching Experience
+# 📚 Teaching Experiences
 
 **Tutor**, ANU College of Business and Economics  
 - *FINM3008 Portfolio Construction* (S2 2025)  
