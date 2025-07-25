@@ -29,3 +29,4 @@ main:
     
   - title: "The Well"
     url: "/thewell/"
+    layout: default
