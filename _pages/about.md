@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # About Me
-My name is Yaxin Zheng, and I am an undergraduate student in Finance at Australian National University. My research interests include:
+My name is Yaxin Zheng, an undergraduate student in Finance at Australian National University. My research interests include:
 
 - **Empirical Asset Pricing**, Factor Models, and Financial Econometrics  
 - **Credit Risk**, Corporate Bonds, and Financial Intermediation  
