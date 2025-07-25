@@ -26,3 +26,6 @@ main:
 
   - title: "Training"
     url: "/training/"
+    
+  - title: "The Well"
+    url: "/thewell/"
