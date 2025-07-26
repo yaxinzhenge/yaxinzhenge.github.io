@@ -1,11 +1,9 @@
-
 ---
-permalink: /
+permalink: /thewell/
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /thewell/
   - /thewell.html
 ---
 
